@@ -5,18 +5,28 @@
     font-size: 80px;
     font-weight: 300;
     font-family: Arial, Helvetica, sans-serif;
-    background: rgb(101, 106, 110);
+    background: lightpink;
     letter-spacing: 5px;
 }
-.img{
-    border-radius: 50%;
-    height: 300px;
-    width: 300px;
-}
+
 .h11{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
 }
-.bootom{
+.bottom{
     display: flex;
+    justify-content: center;
+}
+.info{
+    font-size: 30px;
+    margin: 70px;
+    border: 1px solid black;
+
+}
+.hello{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    font-size: 80px;
+    color: lightpink;
 }
