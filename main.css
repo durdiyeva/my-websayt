@@ -18,8 +18,11 @@
 }
 .bottom{
     margin: 70px;
+    display: flex;
 }
-
+.box{
+    display: flex;
+}
 .info{
     font-size: 40px;
 }
