@@ -2,7 +2,7 @@ body{
     margin: 50px;
 }
 .container{
-    background-color: rgb(94, 55, 55);
+    background-color: rgb(167, 105, 105);
     padding: 10px;
     box-shadow: 0 40px 40px lightcoral;
 }
@@ -17,7 +17,7 @@ body{
     background: rgb(250, 207, 214);
     letter-spacing: 5px;
     border: 1px solid lightcoral;
-    border-radius: 50px;
+    border-radius: 20px;
     margin: 30px;
     padding: 1px 10px;
 }
@@ -63,7 +63,7 @@ body{
     padding: 20px;
 }
 span{
-    color: rgb(0, 0, 0);
+    color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 100;
     letter-spacing: 2px;
