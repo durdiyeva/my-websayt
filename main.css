@@ -55,14 +55,17 @@ body{
     padding: 20px;
 }
 span{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-size: 40px;
+    background-color: aliceblue;
+    padding-left: 70px;
 }
 .p1:hover{
     transform: scale(1.1);
 }
 .p2:hover{
     transform: scale(1.1);
-}
-.h2{
-    
 }
