@@ -45,13 +45,21 @@ body{
     margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(250, 207, 214);
+    padding: 20px;
 }
 .p1{
     border: 3px solid lightcoral;
     margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(250, 207, 214);
+    padding: 20px;
 }
 span{
-    color: lightpink;
+    color: rgb(255, 255, 255);
+}
+.p1:hover{
+    transform: scale(1.1);
+}
+.p2:hover{
+    transform: scale(1.1);
 }
