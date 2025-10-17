@@ -1,5 +1,10 @@
 body{
-    background-color:rgb(94, 55, 55);
+    margin: 50px;
+}
+.container{
+    background-color: rgb(94, 55, 55);
+    padding: 10px;
+    box-shadow: 0 40px 40px lightcoral;
 }
 .laght{
     text-align: center;
@@ -12,6 +17,9 @@ body{
     background: rgb(250, 207, 214);
     letter-spacing: 5px;
     border: 1px solid lightcoral;
+    border-radius: 50px;
+    margin: 30px;
+    padding: 1px 10px;
 }
 .img{
     width: 400px;
@@ -61,9 +69,9 @@ span{
     letter-spacing: 2px;
     font-size: 40px;
     background-color:lightcoral;
-    padding: 10px 90px;
+    padding: 1px 100px;
     border-radius: 50px;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 .p1:hover{
     transform: scale(1.1);
